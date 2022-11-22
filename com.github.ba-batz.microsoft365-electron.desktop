@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Microsoft 365
+Comment=
+Type=Application
+Exec=/opt/geforcenow-electron/geforcenow-electron
+Icon=microsoft365
+StartupWMClass=geforce now
+Categories=office
+Keywords=Office;Word;Excel;Teams;OneNote;Excel;ms
